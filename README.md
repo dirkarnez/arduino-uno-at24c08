@@ -1,8 +1,14 @@
 arduino-uno-at24c08
 ====================
 ### Notes
-- According to datasheet page 14, suffix `c` in `at24c08c` is just "Device Revision". No difference to `at24c08`
+- According to the [datasheet](atmel-8787-seeprom-at24c04c-08c-datasheet.pdf) page 14, suffix `c` in `at24c08c` is just "Device Revision". No difference to `at24c08`
 - `at24c08c` is bought HKD $10 in Hong Kong 
+
+### Wiring
+![](Arduino-AT24C256-EEPROM-Circuit-Diagram.jpg)
+
+### Datasheet
+- [atmel-8787-seeprom-at24c04c-08c-datasheet.pdf](atmel-8787-seeprom-at24c04c-08c-datasheet.pdf)
 
 ### Using
 - [stefangs/arduino-library-at24cxxx: Arduino library for accessing the AT24CXXX eeprom](https://github.com/stefangs/arduino-library-at24cxxx)
