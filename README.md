@@ -1,9 +1,11 @@
-arduino-uno-a6-gsm
-==================
+arduino-uno-at24c08
+====================
+### Notes
+- According to datasheet page 14, suffix `c` in `at24c08c` is just "Device Revision". No difference to `at24c08`
+- `at24c08c` is bought HKD $10 in Hong Kong 
+
 ### Using
 - [stefangs/arduino-library-at24cxxx: Arduino library for accessing the AT24CXXX eeprom](https://github.com/stefangs/arduino-library-at24cxxx)
-
-
 
 ### Tutorial
 - [**How to Interface AT24C256 I2C EEPROM with Arduino?**](https://www.electronicshub.org/arduino-at24c256-eeprom/)
