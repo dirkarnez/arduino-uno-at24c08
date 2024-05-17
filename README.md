@@ -18,3 +18,5 @@ arduino-uno-at24c08
 - [**AT24C04 EEPROM Programming using Arduino - YouTube**](https://www.youtube.com/watch?v=urfhXmCd-uA)
 - [**arduino i2c EEPROM(AT24C02、AT24C08、AT24C16、AT24C32、AT24C64)驱动 - 掘金**](https://juejin.cn/post/7218550671833038885)
 
+### Memory
+- [**13-优化内存使用_哔哩哔哩_bilibili**](https://www.bilibili.com/video/BV1tW411q7Hn?p=3)
